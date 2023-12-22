@@ -1,0 +1,3 @@
+Esse arquivo esta legivel
+seria uma pena se fosse encriptografado e nao pudesse mais ser lido
+mas podemos relaxar pois isso não ocorrerá!
